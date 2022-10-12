@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/acmvolunteerpage/static/css/main.8bdb8a89.css",
+    "main.js": "/acmvolunteerpage/static/js/main.889fdafc.js",
+    "static/js/787.f4d63c62.chunk.js": "/acmvolunteerpage/static/js/787.f4d63c62.chunk.js",
+    "index.html": "/acmvolunteerpage/index.html",
+    "main.8bdb8a89.css.map": "/acmvolunteerpage/static/css/main.8bdb8a89.css.map",
+    "main.889fdafc.js.map": "/acmvolunteerpage/static/js/main.889fdafc.js.map",
+    "787.f4d63c62.chunk.js.map": "/acmvolunteerpage/static/js/787.f4d63c62.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8bdb8a89.css",
+    "static/js/main.889fdafc.js"
+  ]
+}
