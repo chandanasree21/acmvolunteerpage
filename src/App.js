@@ -1,5 +1,5 @@
 import './App.css';
-import { useTable } from 'react-table';
+
 function App() {
   const data=[
     {Name:'srinibha srikanth',Mail:'srinibha.srikanth@gmail.com',Team:'Social media'},
